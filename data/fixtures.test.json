@@ -1,0 +1,27 @@
+[
+ {
+  "week": 1,
+  "home": "Middle Tennessee State Blue Raiders",
+  "away": "VCU Rams",
+  "row": 256,
+  "band": 3,
+  "cell_home": 131,
+  "cell_away": 160,
+  "score_home": 150,
+  "score_away": 153,
+  "id": "w1-r256-b3",
+  "kind": "non-conference"
+ },
+ {
+  "week": 2,
+  "home": "Baylor Bears",
+  "away": "Wichita State Shockers",
+  "row": 275,
+  "band": 0,
+  "cell_home": 2,
+  "cell_away": 31,
+  "score_home": 21,
+  "score_away": 24,
+  "id": "w2-r275-b0"
+ }
+]

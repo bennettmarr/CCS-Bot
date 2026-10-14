@@ -1,0 +1,87 @@
+CCS BOT - START HERE
+====================
+
+Everything is in this one folder. Put it anywhere (e.g. C:\ccsbot).
+
+FIRST TIME ON A MACHINE
+  1. Double-click setup.bat (or run it from cmd).
+     - It asks for your old bot folder and copies over the 4 private files:
+       config.json, service_account.json, data\state.json, data\identities.json
+     - Then it installs the Python libraries.
+  2. Start the bot:  run.bat   (or:  python main.py)
+
+UPDATING LATER
+  Unzip the new version over this folder. Your 4 private files are never in
+  the zip, so they won't be overwritten. Then restart the bot.
+
+ONLY RUN ONE COPY AT A TIME (laptop OR desktop, never both).
+
+AFTER THIS UPDATE (roster fix), in Discord:
+  /stats action:relabel     <- re-reads the Roster Sheet, fixes stat teams
+  /stats action:build       <- rebuilds Players / Leaderboard / etc.
+
+LIVE RESULTS (new)
+  Anything posted in #stats-replays-or-bcgroup with .replay files or a
+  ballchasing group link is recorded automatically, and the bot reacts:
+    OK (green check)  recorded
+    warning sign      recorded but flagged - details in the bot log channel
+    question mark     couldn't place it - enter it by hand (/report)
+    repeat arrows     already recorded
+  A series split across posts (same person, within 10 minutes) is joined up.
+  CATCH-UP IS AUTOMATIC: every time you start the bot (run.bat) it reads
+  the results channel from where it left off, records anything posted while
+  it was off, reacts to those posts, and posts a summary in the log channel.
+  No commands needed. (Turn it off with "auto_catch_up": false in config.)
+  To switch the live feed off: "live_results": false in config.json.
+
+WEBSITE STATS SHEET (new)
+  "CCS Season 9 Website Stats" in your Google Drive is rebuilt from the bot's
+  own records about 90 seconds after every result, after /stats relabel, and
+  30 seconds after the bot starts - so past games are included too.
+  ONE-TIME SETUP: share that sheet as Editor with the bot's service account
+  (the "client_email" line inside service_account.json).
+  Rebuild it any time:  /stats action:website
+
+ROSTER ISSUES TAB (new)
+  On your Non Conference copy, next to Game Stats. One row per player whose
+  replays don't match the Roster Sheet: their team, the tracker link the
+  replays show, what the Roster Sheet says, and a suggested fix.
+    WRONG LINK?  on the team's roster, but with a different link - replace it
+    WRONG TEAM   rostered to another team - move them, or ignore if a sub
+    AMBIGUOUS    name matches more than one roster entry
+    UNROSTERED   not on the Roster Sheet - add them
+  It updates with every website sync. After fixing the Roster Sheet, run
+  /stats action:relabel (re-reads the roster) and the list shrinks.
+
+ONE PLAYER, TWO ACCOUNTS (console + Epic)
+  Paste the second tracker link on the SAME row, in the next empty column to
+  the right of the first link (e.g. column AX next to AW, or P next to O).
+  The bot treats both links as the same player on that team.
+  Or, without touching the sheet: Roster Issues shows "Probably the same
+  person as" when only one rostered player is missing from those games.
+  If that's right, run in Discord:
+    /link account:<Account column, e.g. epic:9b2f...> team:<team> player:<roster name>
+  then /stats action:relabel. The bot remembers that account from then on.
+
+ROSTER REPORT (text file)
+  /rosterreport            every team
+  /rosterreport team:UCF   one team
+  For each account that doesn't match the Roster Sheet: the account and
+  tracker, the series it played (with post links), the correctly rostered
+  teammates in those same games, who on the roster wasn't seen, and the fix.
+
+ACCOUNT AUDIT (for Nation)
+  /accountaudit  -> two spreadsheet files (open in Google Sheets / Excel):
+    accounts: every account that played without being that exact account on
+              the roster - status, in-game name, team, tracker, ballchasing
+              link, what the roster lists instead, games, first/last date
+    games:    every game each of those accounts played - date, week,
+              opponent, game #, score, W/L, their stats, results post link
+  Status: UNROSTERED / DIFFERENT ACCOUNT (same player, other account than
+  the roster lists) / WRONG TEAM / AMBIGUOUS. Exact matches and spectators
+  are left out.
+
+WHAT ELSE IS IN HERE
+  extras\CCS_Bot_Handoff.md        full notes on where the bot stands
+  extras\sheet-scripts\*.gs        Apps Script for the Group Stage sheet
+  REFERENCE.md                     commands and config reference

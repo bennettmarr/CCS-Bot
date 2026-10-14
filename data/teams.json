@@ -1,0 +1,810 @@
+{
+ "Akron Zips": {
+  "role_id": "1254313735732990004",
+  "role_name": "Akron Zips"
+ },
+ "Alabama Crimson Tide": {
+  "role_id": "1204331650281119794",
+  "role_name": "Alabama Crimson Tide"
+ },
+ "Albany Great Danes": {
+  "role_id": "1409266777694666844",
+  "role_name": "Albany Great Danes"
+ },
+ "Appalachian State Mountaineers": {
+  "role_id": "1215590677757435975",
+  "role_name": "Appalachian State Mountaineers"
+ },
+ "Arizona State Sundevils": {
+  "role_id": "1166268871175569418",
+  "role_name": "Arizona State Sun Devils"
+ },
+ "Arizona Wildcats": {
+  "role_id": "1166268868709339216",
+  "role_name": "Arizona Wildcats"
+ },
+ "Arkansas Little Rock Trojans": {
+  "role_id": "1327866486944960553",
+  "role_name": "Arkansas Little Rock Trojans"
+ },
+ "Arkansas Razorbacks": {
+  "role_id": "1204331659059658793",
+  "role_name": "Arkansas Razorbacks"
+ },
+ "Army Black Knights": {
+  "role_id": "1408240993173508277",
+  "role_name": "Army Black Knights"
+ },
+ "Auburn Tigers": {
+  "role_id": "1204331665195794462",
+  "role_name": "Auburn Tigers"
+ },
+ "Ball State Cardinals": {
+  "role_id": "1276233686152511511",
+  "role_name": "Ball State Cardinals"
+ },
+ "Baylor Bears": {
+  "role_id": "1166268846500483102",
+  "role_name": "Baylor Bears"
+ },
+ "Binghamton Bearcats": {
+  "role_id": "1491181000854601962",
+  "role_name": "Binghamton Bearcats"
+ },
+ "Boise State Broncos": {
+  "role_id": "1547214972571099207",
+  "role_name": "Boise State Broncos"
+ },
+ "Boston Terriers": {
+  "role_id": "1463380539611287573",
+  "role_name": "Boston Terriers"
+ },
+ "Bowling Green State Falcons": {
+  "role_id": "1254313738593636443",
+  "role_name": "Bowling Green Falcons"
+ },
+ "Buffalo Bulls": {
+  "role_id": "1409337756857008272",
+  "role_name": "Buffalo Bulls"
+ },
+ "Butler Bulldogs": {
+  "role_id": "1548160432848633897",
+  "role_name": "Butler Bulldogs"
+ },
+ "CSU Fullerton Titans": {
+  "role_id": "1254340118689353778",
+  "role_name": "Fullerton Titans"
+ },
+ "CSU Northridge Matadors": {
+  "role_id": "1254340117636845578",
+  "role_name": "CSU Northridge Matadors"
+ },
+ "Cal Golden Bears": {
+  "role_id": "1173498890801119273",
+  "role_name": "California Golden Bears"
+ },
+ "Cal Poly Mustangs": {
+  "role_id": "1328181479175491775",
+  "role_name": "Cal Poly Mustangs"
+ },
+ "California Baptist Lancers": {
+  "role_id": "1306148102431834154",
+  "role_name": "California Baptist Lancers"
+ },
+ "Canisius Golden Griffins": {
+  "role_id": "1272830968729960500",
+  "role_name": "Canisius Golden Griffins"
+ },
+ "Central Arkansas Bears": {
+  "role_id": "1272826025742434344",
+  "role_name": "Central Arkansas Bears"
+ },
+ "Cincinnati Bearcats": {
+  "role_id": "1166268848358568006",
+  "role_name": "Cincinnati Bearcats"
+ },
+ "Clemson Tigers": {
+  "role_id": "1173498882160873474",
+  "role_name": "Clemson Tigers"
+ },
+ "Coastal Carolina Chanticleers": {
+  "role_id": "1358866608529080423",
+  "role_name": "Coastal Carolina Chanticleers"
+ },
+ "Colorado Buffaloes": {
+  "role_id": "1166268859024687124",
+  "role_name": "Colorado Buffaloes"
+ },
+ "Colorado State Rams": {
+  "role_id": "1183912964764483725",
+  "role_name": "Colorado State Rams"
+ },
+ "Connecticut Huskies": {
+  "role_id": "1215590683260354610",
+  "role_name": "UConn Huskies"
+ },
+ "Cougars": {
+  "role_id": "1182542630006030367",
+  "role_name": "BYU Cougars"
+ },
+ "Creighton Bluejays": {
+  "role_id": "1545559229266526310",
+  "role_name": "Creighton Bluejays"
+ },
+ "Dayton Flyers": {
+  "role_id": "1254340105808908348",
+  "role_name": "Dayton Flyers"
+ },
+ "Denver Pioneers": {
+  "role_id": "1306158550242037792",
+  "role_name": "Denver Pioneers"
+ },
+ "Drexel Dragons": {
+  "role_id": "1254340159692869632",
+  "role_name": "Drexel Dragons"
+ },
+ "Duke Blue Devils": {
+  "role_id": "1173498883800834160",
+  "role_name": "Duke Blue Devils"
+ },
+ "East Carolina Pirates": {
+  "role_id": "1151329533929214073",
+  "role_name": "East Carolina Pirates"
+ },
+ "Eastern Illinois Panthers": {
+  "role_id": "1325774621454110842",
+  "role_name": "Eastern Illinois Panthers"
+ },
+ "Eastern Kentucky Colonels": {
+  "role_id": "1272826024547188820",
+  "role_name": "Eastern Kentucky Colonels"
+ },
+ "Eastern Michigan Eagles": {
+  "role_id": "1258671916525424780",
+  "role_name": "Eastern Michigan Eagles"
+ },
+ "Elon Phoenix": {
+  "role_id": "1258655191335571487",
+  "role_name": "Elon Phoenix"
+ },
+ "Florida Gators": {
+  "role_id": "1204331642379046973",
+  "role_name": "Florida Gators"
+ },
+ "Florida Gulf Coast Eagles": {
+  "role_id": "1272826022991106069",
+  "role_name": "Florida Gulf Coast Eagles"
+ },
+ "Florida International Panthers": {
+  "role_id": "1204348541921918976",
+  "role_name": "Florida International Panthers"
+ },
+ "Florida State Seminoles": {
+  "role_id": "1173498884341903400",
+  "role_name": "Florida State Seminoles"
+ },
+ "Fresno State Bulldogs": {
+  "role_id": "1182224612667445248",
+  "role_name": "Fresno State Bulldogs"
+ },
+ "George Washington Revolutionaries": {
+  "role_id": "1547979234209825001",
+  "role_name": "George Washington Revolutionaries"
+ },
+ "Georgia Bulldogs": {
+  "role_id": "1204331645667254324",
+  "role_name": "Georgia Bulldogs"
+ },
+ "Georgia Southern Eagles": {
+  "role_id": "1526073730470772787",
+  "role_name": "Georgia Southern Eagles"
+ },
+ "Georgia State Esports": {
+  "role_id": "1225310291856719872",
+  "role_name": "Georgia State Panthers"
+ },
+ "Georgia Tech Yellow Jackets": {
+  "role_id": "1273414376053014651",
+  "role_name": "Georgia Tech Yellow Jackets"
+ },
+ "Gonzaga Bulldogs": {
+  "role_id": "1489510118834966539",
+  "role_name": "Gonzaga Bulldogs"
+ },
+ "Grand Canyon Antelopes": {
+  "role_id": "1254297635188379699",
+  "role_name": "Grand Canyon Antelopes"
+ },
+ "Hofstra Pride": {
+  "role_id": "1254340162591264838",
+  "role_name": "Hofstra Pride"
+ },
+ "Houston": {
+  "role_id": "1166268850250186773",
+  "role_name": "Houston Cougars"
+ },
+ "Houston Christian Huskies": {
+  "role_id": "1547817427469991946",
+  "role_name": "Houston Christian Huskies"
+ },
+ "Idaho State Bengals": {
+  "role_id": "1257209656208527422",
+  "role_name": "Idaho State Bengals"
+ },
+ "Idaho Vandals": {
+  "role_id": "1220795068886028348",
+  "role_name": "Idaho Vandals"
+ },
+ "Illinois Fighting Illini": {
+  "role_id": "1204352505157259264",
+  "role_name": "Illinois Fighting Illini"
+ },
+ "Indiana Hoosiers": {
+  "role_id": "1204352502733086750",
+  "role_name": "Indiana Hoosiers"
+ },
+ "Indiana State Sycamores": {
+  "role_id": "1491181004466032760",
+  "role_name": "Indiana State Sycamores"
+ },
+ "Iona Gaels": {
+  "role_id": "1272830964350976082",
+  "role_name": "Iona Gaels"
+ },
+ "Iowa Hawkeyes": {
+  "role_id": "1204352509083123722",
+  "role_name": "Iowa Hawkeyes"
+ },
+ "Iowa State Cyclones": {
+  "role_id": "1166268851969867776",
+  "role_name": "Iowa State Cyclones"
+ },
+ "James Madison Dukes": {
+  "role_id": "1215590679124901888",
+  "role_name": "James Madison Dukes"
+ },
+ "Kansas Jayhawks": {
+  "role_id": "1166268853895045140",
+  "role_name": "Kansas Jayhawks"
+ },
+ "Kansas State Wildcats": {
+  "role_id": "1166268856029950012",
+  "role_name": "Kansas State Wildcats"
+ },
+ "Kennesaw State Owls": {
+  "role_id": "1204348548641071114",
+  "role_name": "Kennesaw State Owls"
+ },
+ "Kent State Golden Flashes": {
+  "role_id": "1254313734625820755",
+  "role_name": "Kent State Golden Flashes"
+ },
+ "Kentucky Wildcats": {
+  "role_id": "1204331648200478720",
+  "role_name": "Kentucky Wildcats"
+ },
+ "LSU New Orleans Privateers": {
+  "role_id": "1409695518204104768",
+  "role_name": "LSU New Orleans Privateers"
+ },
+ "LSU Tigers": {
+  "role_id": "1204331652755488768",
+  "role_name": "LSU Tigers"
+ },
+ "Lamar Cardinals": {
+  "role_id": "1387564944366764226",
+  "role_name": "Lamar Cardinals"
+ },
+ "Liberty Flames": {
+  "role_id": "1204348543653908491",
+  "role_name": "Liberty Flames"
+ },
+ "Lindenwood Lions": {
+  "role_id": "1325774632812412948",
+  "role_name": "Lindenwood Lions"
+ },
+ "Long Beach State Beach": {
+  "role_id": "1254340116609241108",
+  "role_name": "Long Beach State"
+ },
+ "Louisiana Ragin' Cajuns": {
+  "role_id": "1215590675051974716",
+  "role_name": "Louisiana Ragin' Cajuns"
+ },
+ "Louisiana Tech Bulldogs": {
+  "role_id": "1204348546053054535",
+  "role_name": "Louisiana Tech Bulldogs"
+ },
+ "Louisville Cardinals": {
+  "role_id": "1173498885830885437",
+  "role_name": "Louisville Cardinals"
+ },
+ "Loyola Greyhounds": {
+  "role_id": "1463381552208543794",
+  "role_name": "Loyola (MD) Greyhounds"
+ },
+ "Marist Red Foxes": {
+  "role_id": "1272830969715490846",
+  "role_name": "Marist Red Foxes"
+ },
+ "Marquette": {
+  "role_id": "1445151168258113536",
+  "role_name": "Marquette"
+ },
+ "Maryland Terrapins": {
+  "role_id": "1273468951246143499",
+  "role_name": "Maryland Terrapins"
+ },
+ "McNeese State Cowboys": {
+  "role_id": "1395453604240035870",
+  "role_name": "McNeese State Cowboys"
+ },
+ "Memphis Tigers": {
+  "role_id": "1464771772263174256",
+  "role_name": "Memphis Tigers"
+ },
+ "Merrimack Warriors": {
+  "role_id": "1465571529549938729",
+  "role_name": "Merrimack Warriors"
+ },
+ "Miami Redhawks": {
+  "role_id": "1306148730193580125",
+  "role_name": "Miami Redhawks"
+ },
+ "Michigan State Spartans": {
+  "role_id": "1273425004586991636",
+  "role_name": "Michigan State Spartans"
+ },
+ "Michigan Wolverines": {
+  "role_id": "1215573871986741288",
+  "role_name": "Michigan Wolverines"
+ },
+ "Middle Tennessee State Blue Raiders": {
+  "role_id": "1204350094850396220",
+  "role_name": "Middle Tennessee State Blue Raiders"
+ },
+ "Milwaukee Panthers": {
+  "role_id": "1260761956457910292",
+  "role_name": "Milwaukee Panthers"
+ },
+ "Minnesota Golden Gophers": {
+  "role_id": "1204352508353314836",
+  "role_name": "Minnesota Golden Gophers"
+ },
+ "Mississippi State Bulldogs": {
+  "role_id": "1270174322228592692",
+  "role_name": "Mississippi State Bulldogs"
+ },
+ "Missouri State Bears": {
+  "role_id": "1372351359143383060",
+  "role_name": "Missouri State Bears"
+ },
+ "Missouri Tigers": {
+  "role_id": "1204331654995247134",
+  "role_name": "Missouri Tigers"
+ },
+ "Montana State Bobcats": {
+  "role_id": "1204357438032052254",
+  "role_name": "Montana State Bobcats"
+ },
+ "Mount St Mary's Mountaineers": {
+  "role_id": "1272830966762835989",
+  "role_name": "Mount St. Mary\u2019s Mountaineers"
+ },
+ "Murray State Racers": {
+  "role_id": "1502373936669790348",
+  "role_name": "Murray State Racers"
+ },
+ "NC State Wolfpack": {
+  "role_id": "1173498887785431081",
+  "role_name": "NC State Wolfpack"
+ },
+ "NJIT B": {
+  "role_id": "1409610218869882952",
+  "role_name": "NJIT B"
+ },
+ "NJIT Highlanders": {
+  "role_id": "1272842053310746679",
+  "role_name": "NJIT Highlanders"
+ },
+ "Navy Midshipmen": {
+  "role_id": "1194835599501295716",
+  "role_name": "Navy Midshipmen"
+ },
+ "Nebraska Cornhuskers": {
+  "role_id": "1204352507157938207",
+  "role_name": "Nebraska Cornhuskers"
+ },
+ "Nevada Wolfpack": {
+  "role_id": "1182224614206738432",
+  "role_name": "Nevada Wolfpack"
+ },
+ "New Hampshire Wildcats": {
+  "role_id": "1464003318388097106",
+  "role_name": "New Hampshire Wildcats"
+ },
+ "New Mexico State Aggies": {
+  "role_id": "1204348549312282664",
+  "role_name": "New Mexico State Aggies"
+ },
+ "Niner Esports": {
+  "role_id": "1151329901417349140",
+  "role_name": "Charlotte 49ers"
+ },
+ "North Alabama Lions": {
+  "role_id": "1272826023964180510",
+  "role_name": "North Alabama Lions"
+ },
+ "North Carolina Tarheels": {
+  "role_id": "1173788111969472592",
+  "role_name": "North Carolina Tarheels"
+ },
+ "North Dakota Fighting Hawks": {
+  "role_id": "1547419719106306078",
+  "role_name": "North Dakota Fighting Hawks"
+ },
+ "North Florida Ospreys": {
+  "role_id": "1272826021887868991",
+  "role_name": "North Florida Ospreys"
+ },
+ "North Texas Mean Green": {
+  "role_id": "1152769436198109274",
+  "role_name": "North Texas Mean Green"
+ },
+ "Northeastern Huskies": {
+  "role_id": "1258655186138828851",
+  "role_name": "Northeastern Huskies"
+ },
+ "Northern Colorado Bears": {
+  "role_id": "1204357441765249084",
+  "role_name": "Northern Colorado Bears"
+ },
+ "Northern Illinois Huskies": {
+  "role_id": "1273399094274166846",
+  "role_name": "Northern Illinois Huskies"
+ },
+ "Northern Iowa Panthers": {
+  "role_id": "1501431939960410243",
+  "role_name": "Northern Iowa Panthers"
+ },
+ "Northern Kentucky Norse": {
+  "role_id": "1258667148641964093",
+  "role_name": "Northern Kentucky Norse"
+ },
+ "Northwestern Wildcats": {
+  "role_id": "1204352505992187925",
+  "role_name": "Northwestern Wildcats"
+ },
+ "Ohio Bobcats": {
+  "role_id": "1254313736626507797",
+  "role_name": "Ohio Bobcats"
+ },
+ "Ohio State Buckeyes": {
+  "role_id": "1265823494059331584",
+  "role_name": "Ohio State Buckeyes"
+ },
+ "Oklahoma Sooners": {
+  "role_id": "1409632979667517541",
+  "role_name": "Oklahoma Sooners"
+ },
+ "Oklahoma State Cowboys": {
+  "role_id": "1182542632883335349",
+  "role_name": "Oklahoma State Cowboys"
+ },
+ "Old Dominion Monarchs": {
+  "role_id": "1409324571127054438",
+  "role_name": "Old Dominion Monarchs"
+ },
+ "Omaha Mavericks": {
+  "role_id": "1464772942490636441",
+  "role_name": "Omaha Mavericks"
+ },
+ "Oregon Ducks": {
+  "role_id": "1204352495418089532",
+  "role_name": "Oregon Ducks"
+ },
+ "Oregon State Beavers": {
+  "role_id": "1541218318290264245",
+  "role_name": "Oregon State Beavers"
+ },
+ "Pacific Tigers": {
+  "role_id": "1501744753862115518",
+  "role_name": "Pacific Tigers"
+ },
+ "Penn State Nittany Lions": {
+  "role_id": "1273481468500377682",
+  "role_name": "Penn State Nittany Lions"
+ },
+ "Pitt Panthers": {
+  "role_id": "1187250550916526170",
+  "role_name": "Pittsburgh Panthers"
+ },
+ "Providence Friars": {
+  "role_id": "1445216509478834299",
+  "role_name": "Providence Friars"
+ },
+ "Purdue Boilermakers": {
+  "role_id": "1204352503869607946",
+  "role_name": "Purdue Boilermakers"
+ },
+ "Purdue Fort Wayne Mastodons": {
+  "role_id": "1258667149702987858",
+  "role_name": "Purdue Fort Wayne Mastodons"
+ },
+ "Rhode Island Rams": {
+  "role_id": "1407468146851582114",
+  "role_name": "Rhode Island Rams"
+ },
+ "Robert Morris Colonials": {
+  "role_id": "1258667151061946428",
+  "role_name": "Robert Morris Colonials"
+ },
+ "SFA Lumberjacks": {
+  "role_id": "1254297634215165972",
+  "role_name": "SFA Lumberjacks"
+ },
+ "SMU Mustangs": {
+  "role_id": "1152347065536487424",
+  "role_name": "SMU Mustangs"
+ },
+ "Sacramento State Hornets": {
+  "role_id": "1204357443283591168",
+  "role_name": "Sacramento State Hornets"
+ },
+ "Sam Houston State Bearkats": {
+  "role_id": "1258660253520625777",
+  "role_name": "Sam Houston State Bearkats"
+ },
+ "San Diego State Aztecs": {
+  "role_id": "1182224615418908702",
+  "role_name": "San Diego State Aztecs"
+ },
+ "San Jose State Spartans": {
+  "role_id": "1182224616664612874",
+  "role_name": "San Jose State Spartans"
+ },
+ "Santa Clara Broncos": {
+  "role_id": "1546715921182105610",
+  "role_name": "Santa Clara Broncos"
+ },
+ "Seattle Redhawks": {
+  "role_id": "1254300984973332501",
+  "role_name": "Seattle Redhawks"
+ },
+ "Siena Saints": {
+  "role_id": "1319086128078258186",
+  "role_name": "Siena Saints"
+ },
+ "South Alabama Jaguars": {
+  "role_id": "1544127790637650000",
+  "role_name": "South Alabama Jaguars"
+ },
+ "South Carolina Gamecocks": {
+  "role_id": "1204331663270875167",
+  "role_name": "South Carolina Gamecocks"
+ },
+ "South Dakota Coyotes": {
+  "role_id": "1265162254702088313",
+  "role_name": "South Dakota Coyotes"
+ },
+ "South Dakota State Jackrabbits": {
+  "role_id": "1386953623782555688",
+  "role_name": "South Dakota State Jackrabitts"
+ },
+ "South Florida Bulls": {
+  "role_id": "1407479218694000700",
+  "role_name": "South Florida Bulls"
+ },
+ "Southeast Missouri State Redhawks": {
+  "role_id": "1325774631038353408",
+  "role_name": "Southeast Missouri State Redhawks"
+ },
+ "Southern California Trojans": {
+  "role_id": "1258660689032118322",
+  "role_name": "Southern California Trojans"
+ },
+ "Southern Illinois Salukis": {
+  "role_id": "1543861012921450527",
+  "role_name": "Southern Illinois Salukis"
+ },
+ "Southern Indiana Screaming Eagles": {
+  "role_id": "1325774630073405461",
+  "role_name": "Southern Indiana Screaming Eagles"
+ },
+ "Southern Utah Thunderbirds": {
+  "role_id": "1254297632633782292",
+  "role_name": "Southern Utah Thunderbirds"
+ },
+ "St Johns Red Storm": {
+  "role_id": "1215590686175404092",
+  "role_name": "St Johns Red Storm"
+ },
+ "St Josephs Hawks": {
+  "role_id": "1386953830742233158",
+  "role_name": "Saint Joseph\u2019s Hawks"
+ },
+ "St Louis Billikens": {
+  "role_id": "1547657871372583112",
+  "role_name": "Saint Louis Billikens"
+ },
+ "St Thomas Tommies": {
+  "role_id": "1265162253506711635",
+  "role_name": "St Thomas Tommies"
+ },
+ "Syracuse Orange": {
+  "role_id": "1173498889249239071",
+  "role_name": "Syracuse Orange"
+ },
+ "TCU Horned Frogs": {
+  "role_id": "1166268859800621088",
+  "role_name": "TCU Horned Frogs"
+ },
+ "Temple Owls": {
+  "role_id": "1155779309118685276",
+  "role_name": "Temple Owls"
+ },
+ "Tennessee Tech Golden Eagles": {
+  "role_id": "1325774628416782336",
+  "role_name": "Tennessee Tech Golden Eagles"
+ },
+ "Tennessee Volunteers": {
+  "role_id": "1204331661215399946",
+  "role_name": "Tennessee Volunteers"
+ },
+ "Texas A&M Aggies": {
+  "role_id": "1204331666743492620",
+  "role_name": "Texas A&M Aggies"
+ },
+ "Texas Longhorns": {
+  "role_id": "1204331656916508713",
+  "role_name": "Texas Longhorns"
+ },
+ "Texas State Bobcats": {
+  "role_id": "1215590636154130462",
+  "role_name": "Texas State Bobcats"
+ },
+ "Texas Tech Red Raiders": {
+  "role_id": "1166268863571304460",
+  "role_name": "Texas Tech Red Raiders"
+ },
+ "Toledo Rockets": {
+  "role_id": "1254313733568860170",
+  "role_name": "Toledo Rockets"
+ },
+ "Towson Tigers": {
+  "role_id": "1459384662035267594",
+  "role_name": "Towson Tigers"
+ },
+ "Tulsa Golden Hurricane": {
+  "role_id": "1151533132869287976",
+  "role_name": "Tulsa Golden Hurricanes"
+ },
+ "UAB Blazers": {
+  "role_id": "1151329779446992937",
+  "role_name": "UAB Blazers"
+ },
+ "UC Davis Aggies": {
+  "role_id": "1409696273795125289",
+  "role_name": "UC Davis Aggies"
+ },
+ "UC Irvine Anteaters": {
+  "role_id": "1461149232701509744",
+  "role_name": "UC Irvine Anteaters"
+ },
+ "UC Riverside Highlanders": {
+  "role_id": "1254340119385735268",
+  "role_name": "UC Riverside Highlanders"
+ },
+ "UCF Knights": {
+  "role_id": "1166268865483915314",
+  "role_name": "UCF Knights"
+ },
+ "UCLA Bruins": {
+  "role_id": "1204352497276297216",
+  "role_name": "UCLA Bruins"
+ },
+ "UCSD Esports": {
+  "role_id": "1254340114130276363",
+  "role_name": "UC San Diego Tritons"
+ },
+ "UI Chicago Flames": {
+  "role_id": "1547214980527693914",
+  "role_name": "UIC Flames"
+ },
+ "UMBC Golden Retrievers": {
+  "role_id": "1272842054044483655",
+  "role_name": "UMBC Retrievers"
+ },
+ "UMass Lowell River Hawks": {
+  "role_id": "1494070234816975048",
+  "role_name": "UMass Lowell River Hawks"
+ },
+ "UNC Wilmington Seahawks": {
+  "role_id": "1254340162348126218",
+  "role_name": "UNC Wilmington Seahawks"
+ },
+ "UNLV Rebels": {
+  "role_id": "1546320718638088282",
+  "role_name": "UNLV Rebels"
+ },
+ "UNM Esports": {
+  "role_id": "1182542638323335219",
+  "role_name": "New Mexico Lobos"
+ },
+ "UT Arlington Mavericks": {
+  "role_id": "1254297636098539573",
+  "role_name": "UT Arlington Mavericks"
+ },
+ "UTRGV Vaqueros": {
+  "role_id": "1232569032872296468",
+  "role_name": "UTRGV Vaqueros"
+ },
+ "UTSA Roadrunners": {
+  "role_id": "1151620594920607906",
+  "role_name": "UTSA Roadrunners"
+ },
+ "Utah State Aggies": {
+  "role_id": "1182861170571489310",
+  "role_name": "Utah State Aggies"
+ },
+ "Utah Tech Trailblazers": {
+  "role_id": "1254297636186492969",
+  "role_name": "Utah Tech Trailblazers"
+ },
+ "Utah Utes": {
+  "role_id": "1166268861788737536",
+  "role_name": "Utah Utes"
+ },
+ "Utah Valley Wolverines": {
+  "role_id": "1254297631488999464",
+  "role_name": "Utah Valley Wolverines"
+ },
+ "VCU Rams": {
+  "role_id": "1254340101622730812",
+  "role_name": "VCU Rams"
+ },
+ "Vermont Catamounts": {
+  "role_id": "1272842055424671744",
+  "role_name": "Vermont Catamounts"
+ },
+ "Virginia Cavaliers": {
+  "role_id": "1330644087413669928",
+  "role_name": "Virginia Cavaliers"
+ },
+ "Virginia Tech Hokies": {
+  "role_id": "1189845575445786784",
+  "role_name": "Virginia Tech Hokies"
+ },
+ "WSU Esports": {
+  "role_id": "1194835512398196847",
+  "role_name": "Washington State Cougars"
+ },
+ "Washington Huskies": {
+  "role_id": "1204352493795020800",
+  "role_name": "Washington Huskies"
+ },
+ "Weber State Wildcats": {
+  "role_id": "1204357439634542684",
+  "role_name": "Weber State Wildcats"
+ },
+ "West Florida Argonauts": {
+  "role_id": "1491181340794683612",
+  "role_name": "West Florida Argonauts"
+ },
+ "Western Kentucky Hilltoppers": {
+  "role_id": "1204348544341909544",
+  "role_name": "Western Kentucky Hilltoppers"
+ },
+ "Wichita State Shockers": {
+  "role_id": "1151595018964971621",
+  "role_name": "Wichita State Shockers"
+ },
+ "Wisconsin Badgers": {
+  "role_id": "1306146349598900296",
+  "role_name": "Wisconsin Badgers"
+ },
+ "Xavier Musketeers": {
+  "role_id": "1215590681897074728",
+  "role_name": "Xavier Musketeers"
+ }
+}

@@ -1,0 +1,18 @@
+# Secrets - never upload
+config.json
+service_account.json
+.env
+
+# Runtime data and logs
+*.log
+data/state.json
+data/state.test.json
+data/identities.json
+data/steam_vanity.json
+data/catchup.json
+data/audit_last.json
+
+# Python junk
+__pycache__/
+*.pyc
+venv/
